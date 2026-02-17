@@ -47,6 +47,15 @@ Smart dynamic restaurant menu using AI
 
 ---
 
+## 🏅 HackerRank
+
+<p align="center">
+  <a href="https://www.hackerrank.com/svanalkar">
+    <img src="https://img.shields.io/badge/HackerRank-Python%20Gold-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
+
+
 ## 📊 GitHub Stats (Beige Theme)
 
 <p align="center">
