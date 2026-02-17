@@ -2,11 +2,12 @@
 booting system...
 
 > user: shravani
+
 > initializing identity...
-> loading modules: backend • ai • cloud • writing
+
 > status: online
 
-shravanI.exe loading...
+# shravanI.exe loading...
 
 
 
