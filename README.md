@@ -1,6 +1,13 @@
-<p align="center">
+```text
+booting system...
 
-<img src="https://readme-typing-svg.herokuapp.com?color=7A5C3E&size=22&center=true&vCenter=true&lines=Hi+I'm+Shravani;Backend+Developer;AI+Builder;Aspiring+Writer" />
+> user: shravani
+> initializing identity...
+> loading modules: backend • ai • cloud • writing
+> status: online
+
+shravanI.exe loading...
+
 
 </p>
 
@@ -9,7 +16,9 @@
 ## 🌸 About Me  
 
 • PYTHON BACKEND DEVELOPER
+
 • RAG & LLM BASED APPLICATION DEVELOPER
+
 • ASPIRING FULL STACK DEVELOPER
 
 ---
@@ -56,28 +65,17 @@ Smart dynamic restaurant menu using AI
 </p>
 
 
-## 📊 GitHub Stats (Beige Theme)
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shravani253&show_icons=true&theme=gruvbox&hide_border=true&bg_color=F5E6D3&title_color=7A5C3E&text_color=7A5C3E&icon_color=E09F3E"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravani253&layout=compact&theme=gruvbox&hide_border=true&bg_color=F5E6D3&title_color=7A5C3E&text_color=7A5C3E"/>
-
-</p>
 
 ---
 
 ## 💌 Reach Me At  
 
-📧 **your_email_here**  
-💼 **your_linkedin_here**  
+📧 **svanlkar@gmail.com**  
+💼 **https://www.linkedin.com/in/shravani-vanalkar/**  
 🐙 https://github.com/Shravani253  
 
 ---
 
-<p align="center">
-
-☕ *"She codes gracefully and writes her own story."* ✨  
 
 </p>
