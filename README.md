@@ -1,28 +1,8 @@
 <p align="center">
 
-<span style="color:#7A5C3E">
-
-# 👾 HI, I'M SHRAVANI  
-
-`BACKEND DEVELOPER` • `AI BUILDER` • `ASPIRING WRITER`  
-
-**BUILDING CODE & COOKING UP NEW SKILLS ☕**
-
-</span>
+<img src="https://readme-typing-svg.herokuapp.com?color=7A5C3E&size=22&center=true&vCenter=true&lines=Hi+I'm+Shravani;Backend+Developer;AI+Builder;Aspiring+Writer" />
 
 </p>
-
----
-
-## 👾 TECH STACK
-
-<span style="color:#7A5C3E">
-
-`PYTHON` • `SQL` • `FASTAPI` • `REACT (TS)` • `GCP`
-
-</span>
-
----
 
 ---
 
@@ -30,18 +10,19 @@
 
 👩‍💻 Backend Developer  
 🤖 AI Builder  
+✍️ Aspiring Writer  
 ☁️ Working with Google Cloud Platform (GCP)  
 
 ---
 
 ## 🍰 My Projects  
 
-**AI Food Menu Generator**  
-Smart dynamic restaurant menu using AI
+🍽 **AI Food Menu Generator**  
+Smart dynamic restaurant menu using AI  
 
-** Food Recommendation - Chatbot** 
+🧠 **AI Discussion Hub**  
 
-**Analytics Dashboard**  
+📊 **Analytics Dashboard**  
 
 ---
 
@@ -87,6 +68,7 @@ Smart dynamic restaurant menu using AI
 ---
 
 <p align="center">
-  
+
+☕ *"She codes gracefully and writes her own story."* ✨  
 
 </p>
