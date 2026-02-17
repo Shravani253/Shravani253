@@ -1,4 +1,4 @@
-```text
+
 booting system...
 
 > user: shravani
@@ -7,6 +7,7 @@ booting system...
 > status: online
 
 shravanI.exe loading...
+
 
 
 </p>
