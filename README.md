@@ -8,10 +8,9 @@
 
 ## 🌸 About Me  
 
-👩‍💻 Backend Developer  
-🤖 AI Builder  
-✍️ Aspiring Writer  
-☁️ Working with Google Cloud Platform (GCP)  
+• PYTHON BACKEND DEVELOPER
+• RAG & LLM BASED APPLICATION DEVELOPER
+• ASPIRING FULL STACK DEVELOPER
 
 ---
 
@@ -20,7 +19,9 @@
 🍽 **AI Food Menu Generator**  
 Smart dynamic restaurant menu using AI  
 
-🧠 **AI Discussion Hub**  
+🥚**Food recommendation chatbot**
+
+🧠**Project Continuity Brain using Cognee**
 
 📊 **Analytics Dashboard**  
 
@@ -33,7 +34,7 @@ Smart dynamic restaurant menu using AI
 </p>
 
 <p align="center">
-🐍 Python &nbsp;•&nbsp; 🗄 SQL &nbsp;•&nbsp; ⚡ FastAPI &nbsp;•&nbsp; ⚛ React (TypeScript) &nbsp;•&nbsp; ☁️ GCP  
+🐍 Python &nbsp;•&nbsp; 🗄 SQL &nbsp;•&nbsp; ⚡ FastAPI &nbsp;•&nbsp; ⚛ React (TypeScript) &nbsp;•&nbsp;  
 </p>
 
 ---
@@ -43,7 +44,6 @@ Smart dynamic restaurant menu using AI
 🧠 Advanced Backend Architecture  
 🤖 AI Automations & Integrations  
 ☁️ Google Cloud Platform  
-📖 Becoming a Published Author  
 
 ---
 
