@@ -38,6 +38,11 @@ LOADING TECH STACK...
 
 </p>
 
-<p align="center" style="font-family:'Press Start 2P', monospace; color:#7a5c3e; font-size:9px;">
-☕ PYTHON &nbsp;&nbsp;•&nbsp;&nbsp; 🗄 SQL &nbsp;&nbsp;•&nbsp;&nbsp; ⚡ FASTAPI &nbsp;&nbsp;•&nbsp;&nbsp; ⚛ REACT (TS)
+<p align="center">
+  <img src="pixel_loading_bar.gif" width="420"/>
 </p>
+
+<p align="center">
+☕ Python • 🗄 SQL • ⚡ FastAPI • ⚛ React (TS)
+</p>
+
