@@ -1,8 +1,28 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=7A5C3E&size=22&center=true&vCenter=true&lines=Hi+I'm+Shravani;Backend+Developer;AI+Builder" />
+<span style="color:#7A5C3E">
+
+# 👾 HI, I'M SHRAVANI  
+
+`BACKEND DEVELOPER` • `AI BUILDER` • `ASPIRING WRITER`  
+
+**BUILDING CODE & COOKING UP NEW SKILLS ☕**
+
+</span>
 
 </p>
+
+---
+
+## 👾 TECH STACK
+
+<span style="color:#7A5C3E">
+
+`PYTHON` • `SQL` • `FASTAPI` • `REACT (TS)` • `GCP`
+
+</span>
+
+---
 
 ---
 
